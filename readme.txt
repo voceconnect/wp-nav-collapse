@@ -12,7 +12,7 @@ Add togglers to the admin view for WP Nav Menus
 
 == Description ==
 
-Add togglers to the admin view for WP Nav Menus
+JS/CSS add-on to better manage large navigation menus in the admin.
 
 
 == Installation ==
@@ -23,6 +23,8 @@ Add togglers to the admin view for WP Nav Menus
 
 == Frequently asked questions ==
 
+- Is this compatible with my theme?
+_ This plugin on effects the admin. As long as your theme supports nav menus, nothing should change on the front end.
 
 
 == Screenshots ==
